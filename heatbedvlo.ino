@@ -35,7 +35,7 @@ lcd.clear();
 lcd.setCursor(0, 0);
 lcd.print("Authors: ");
 lcd.setCursor(0, 1);
-lcd.print("J. Dziedzicd");
+lcd.print("J. Dziedzic");
 delay(2000);
 lcd.clear();
 }
